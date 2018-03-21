@@ -1,0 +1,57 @@
+/*
+*
+* CSS styles for the New Zealand project
+*
+*/
+
+body {
+    max-width: 1280px;
+    margin: auto;
+}
+
+#header {
+}
+#header h2 {
+}
+#header h3 {
+}
+#header h4 {
+}
+
+.author {
+}
+.author img {
+}
+.author p {
+}
+
+.article {
+}
+.article figure {
+}
+.article figure img {
+}
+.article figure figcaption {
+}
+
+#map {
+}
+
+#footer {
+}
+#footer .back {
+}
+#footer .next {
+}
+
+a:link, a:visited {
+}
+.gray, .gray a:link, .gray a:visited {
+}
+.white, .white a:link, .white a:visited {
+}
+
+@media only screen and (max-width: 900px) {
+    .article figure figcaption {
+    }
+}
